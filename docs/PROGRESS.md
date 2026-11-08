@@ -8,7 +8,7 @@
 
 ---
 
-## Component Checklist
+## Home Page Components (17/17 Verified ✅)
 
 | # | Component / Section | Built | Visually Matched | Animated | Responsive Verified | Notes |
 |---|---------------------|:-----:|:----------------:|:--------:|:-------------------:|-------|
@@ -30,3 +30,16 @@
 | 15 | `BlogPreviewSection` | ✅ | ✅ | ✅ | ✅ | 3 Flame Journal cards with metadata, rotated category tags, Read Story CTAs |
 | 16 | `FinalCTASection` | ✅ | ✅ | ✅ | ✅ | "Hungry Yet?", 4 floating animated badges with mirror float loops, Order Now CTA |
 | 17 | `Footer` | ✅ | ✅ | ✅ | ✅ | Giant "FLAME BURGER" logo, socials, 4-column layout, contact info & copyright bar |
+
+---
+
+## Inner Pages Suite (6/6 Verified ✅)
+
+| Route | Page Name | Sections | Built | Visually Matched | Animated | Responsive Verified | Notes |
+|-------|-----------|----------|:-----:|:----------------:|:--------:|:-------------------:|-------|
+| `/menu` | Menu Page | Hero, Marquee, Intro & Tabs, 5 Category Grids, Final CTA | ✅ | ✅ | ✅ | ✅ | 18 exact items with prices & tags, interactive tab switching, responsive grid |
+| `/offers` | Offers Page | Hero, 4 Featured Deal Cards, Limited Special, Terms Accordion, Final CTA | ✅ | ✅ | ✅ | ✅ | High-contrast brutalist deal cards (Red, Yellow, Cream, Green), promo code copy |
+| `/events` | Catering & Events | Hero, Occasions Grid, 4 Catering Packages, 3-Step Flow, Booking Form, CTA | ✅ | ✅ | ✅ | ✅ | Full event planning suite, 4 sharing trays, interactive booking inquiry form |
+| `/about` | Our Story | Hero, Story Split, Mission Banner, 4 Core Values, Stats, Hours, CTA | ✅ | ✅ | ✅ | ✅ | 3D polaroid tilt, brand origin narrative, 4 values, 4 stats, live hours |
+| `/blog` | Flame Journal | Hero, Featured Read Split, 4 Story Cards Grid, Newsletter Banner | ✅ | ✅ | ✅ | ✅ | Full article index + dynamic article detail template at `/blog/[slug]` |
+| `/contact` | Contact Us & FAQ | Hero, 4 Contact Details Cards, Send Message Form, Location Map, FAQ, CTA | ✅ | ✅ | ✅ | ✅ | Direct contact cards, interactive message form with confirmation, map, 4 accordions |

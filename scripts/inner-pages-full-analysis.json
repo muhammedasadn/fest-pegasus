@@ -1,0 +1,4827 @@
+{
+  "menu": {
+    "url": "https://real-project-691891.framer.app/menu",
+    "viewports": {},
+    "data": {
+      "framerSections": [
+        {
+          "name": "Hero",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 772
+          },
+          "textPreview": "THE MENU FIND YOUR FLAVOR. From signature burgers to crispy sides and comforting classics, discover freshly prepared favorites made to satisfy every craving. ORDER ONLINE MADE "
+        },
+        {
+          "name": "Container",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 500
+          },
+          "textPreview": "THE MENU FIND YOUR FLAVOR. From signature burgers to crispy sides and comforting classics, discover freshly prepared favorites made to satisfy every craving. ORDER ONLINE MADE "
+        },
+        {
+          "name": "Desktop",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 500
+          },
+          "textPreview": "THE MENU FIND YOUR FLAVOR. From signature burgers to crispy sides and comforting classics, discover freshly prepared favorites made to satisfy every craving. ORDER ONLINE MADE "
+        },
+        {
+          "name": "Text",
+          "tag": "DIV",
+          "rect": {
+            "w": 568,
+            "h": 405
+          },
+          "textPreview": "THE MENU FIND YOUR FLAVOR. From signature burgers to crispy sides and comforting classics, discover freshly prepared favorites made to satisfy every craving. ORDER ONLINE"
+        },
+        {
+          "name": "Visual",
+          "tag": "DIV",
+          "rect": {
+            "w": 568,
+            "h": 500
+          },
+          "textPreview": "MADE FRESH DAILY"
+        },
+        {
+          "name": "Image",
+          "tag": "DIV",
+          "rect": {
+            "w": 585,
+            "h": 520
+          },
+          "textPreview": ""
+        },
+        {
+          "name": "Marquee Band",
+          "tag": "DIV",
+          "rect": {
+            "w": 1440,
+            "h": 131
+          },
+          "textPreview": "BURGERS PIZZA SIDES & SNACKS PASTA & BOWLS DRINKS & DESSERTS BURGERS PIZZA SIDES & SNACKS PASTA & BOWLS DRINKS & DESSERTS"
+        },
+        {
+          "name": "Marquee",
+          "tag": "DIV",
+          "rect": {
+            "w": 1614,
+            "h": 131
+          },
+          "textPreview": "BURGERS PIZZA SIDES & SNACKS PASTA & BOWLS DRINKS & DESSERTS BURGERS PIZZA SIDES & SNACKS PASTA & BOWLS DRINKS & DESSERTS"
+        },
+        {
+          "name": "Menu Intro",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 518
+          },
+          "textPreview": "BIG CHOICES BIG CHOICES. BIGGER FLAVOR. Explore the FLAME BURGER menu, made with quality ingredients, bold combinations, and something delicious for every appetite. BURGERS PIZ"
+        },
+        {
+          "name": "Header",
+          "tag": "DIV",
+          "rect": {
+            "w": 760,
+            "h": 246
+          },
+          "textPreview": "BIG CHOICES BIG CHOICES. BIGGER FLAVOR. Explore the FLAME BURGER menu, made with quality ingredients, bold combinations, and something delicious for every appetite."
+        },
+        {
+          "name": "Burgers",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 1176
+          },
+          "textPreview": "BURGERS $12 FLAME BURGER SMASH BURGER A juicy smashed beef patty with cheddar, crisp lettuce, pickles, and our house Zest sauce. $15 DOUBLE STACK DELUXE Two beef patties, dou"
+        },
+        {
+          "name": "Grid",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 856
+          },
+          "textPreview": "$12 FLAME BURGER SMASH BURGER A juicy smashed beef patty with cheddar, crisp lettuce, pickles, and our house Zest sauce. $15 DOUBLE STACK DELUXE Two beef patties, double chedd"
+        },
+        {
+          "name": "Pizza",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 729
+          },
+          "textPreview": "PIZZA $15 CLASSIC MARGHERITA PIZZA Tomato sauce, fresh mozzarella, basil, and a golden, airy crust. $17 PEPPERONI HEAT Mozzarella, pepperoni, tomato sauce, and a hint of chil"
+        },
+        {
+          "name": "Sides & Snacks",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 1126
+          },
+          "textPreview": "SIDES & SNACKS $8 LOADED ZEST FRIES Crispy fries loaded with melted cheese, scallions, and smoky house sauce. $5 GOLDEN FRENCH FRIES Hot, golden fries with a light, satisfyin"
+        },
+        {
+          "name": "Pasta & Bowls",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 705
+          },
+          "textPreview": "PASTA & BOWLS $16 CREAMY TUSCAN PASTA Penne tossed in a creamy tomato sauce with herbs and parmesan. $14 SPICY ARRABBIATA Pasta tossed in a lively tomato and chili sauce. $1"
+        },
+        {
+          "name": "Drinks & Desserts",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 1150
+          },
+          "textPreview": "DRINKS & DESSERTS $4 CLASSIC LEMONADE Fresh, citrusy, and served ice-cold. $6 CHOCOLATE FUDGE BROWNIE Rich chocolate brownie with a soft, fudgy center. $6 VANILLA SHAKE Cr"
+        },
+        {
+          "name": "Final CTA",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 763
+          },
+          "textPreview": "DECIDED YET? YOUR ORDER IS ONE CLICK AWAY. Pick your favorites, add a side or three, and let us handle the rest. Fresh, hot, and full of flavor. ORDER NOW"
+        },
+        {
+          "name": "Footer",
+          "tag": "FOOTER",
+          "rect": {
+            "w": 1440,
+            "h": 744
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example QUICK LINKS Home Menu Offers Events About "
+        },
+        {
+          "name": "Columns",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 299
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example QUICK LINKS Home Menu Offers Events About "
+        },
+        {
+          "name": "Brand",
+          "tag": "DIV",
+          "rect": {
+            "w": 510,
+            "h": 279
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "FIND YOUR FLAVOR.",
+          "styles": {
+            "fontSize": "76px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "74.48px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BURGERS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PIZZA",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "SIDES & SNACKS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PASTA & BOWLS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "DRINKS & DESSERTS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BURGERS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PIZZA",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "SIDES & SNACKS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PASTA & BOWLS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "DRINKS & DESSERTS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "BIG CHOICES. BIGGER FLAVOR.",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "BURGERS",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "FLAME BURGER SMASH BURGER",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "DOUBLE STACK DELUXE",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "HOT HONEY CHICKEN BURGER",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "CRISPY VEGGIE BURGER",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "PIZZA",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "CLASSIC MARGHERITA PIZZA",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "PEPPERONI HEAT",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "GARDEN HARVEST",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "SIDES & SNACKS",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "LOADED ZEST FRIES",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "GOLDEN FRENCH FRIES",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "CRISPY CHICKEN TENDERS",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "ONION RINGS",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "PASTA & BOWLS",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "CREAMY TUSCAN PASTA",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "SPICY ARRABBIATA",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "GRILLED CHICKEN BOWL",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "DRINKS & DESSERTS",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "CLASSIC LEMONADE",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "CHOCOLATE FUDGE BROWNIE",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "VANILLA SHAKE",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "STRAWBERRY SHAKE",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H1",
+          "text": "YOUR ORDER IS ONE CLICK AWAY.",
+          "styles": {
+            "fontSize": "76px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "74.48px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "SMASH BURGERS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "OVEN-FRESH PIZZA",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "CRISPY CHICKEN",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "GOLDEN FRIES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "FRESH SANDWICHES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PASTA FAVORITES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BIG FLAVOR",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "GOOD MOOD",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BIG FLAVOR. GOOD MOOD. EVERY BITE.",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(255, 170, 0)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "https://framerusercontent.com/images/8NTALAYXeCquh8sP7tBWKjnIqyE.jpg?width=1200&height=800",
+          "alt": "Find Your Flavor.",
+          "w": 568,
+          "h": 378
+        },
+        {
+          "src": "https://framerusercontent.com/images/GYc3BaU8pb2fvzx4owj0VTt7848.jpg?width=1200&height=1800",
+          "alt": "",
+          "w": 355,
+          "h": 532
+        },
+        {
+          "src": "https://framerusercontent.com/images/8NTALAYXeCquh8sP7tBWKjnIqyE.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 568,
+          "h": 378
+        },
+        {
+          "src": "https://framerusercontent.com/images/Nvjd6R13s17aGtGNP5lY9ApRE.jpg?width=1200&height=1800",
+          "alt": "",
+          "w": 355,
+          "h": 532
+        },
+        {
+          "src": "https://framerusercontent.com/images/NGCm657BxHIxlxBdRIWAKZSMuM.jpg?width=1200&height=799",
+          "alt": "",
+          "w": 354,
+          "h": 236
+        },
+        {
+          "src": "https://framerusercontent.com/images/cekrgkUE9GmPX1yjVD1Hujc8s.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 354,
+          "h": 236
+        },
+        {
+          "src": "https://framerusercontent.com/images/nVH0oUbZz9d9LShuEzzcPAW0STY.jpg?width=1200&height=900",
+          "alt": "",
+          "w": 354,
+          "h": 266
+        },
+        {
+          "src": "https://framerusercontent.com/images/lsGuP8iyfcjtmPf7dV2Xv938qbs.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 354,
+          "h": 236
+        },
+        {
+          "src": "https://framerusercontent.com/images/jLoCS8kGFP7nYlrFlzTErmGU.jpg?width=1200&height=1600",
+          "alt": "",
+          "w": 354,
+          "h": 472
+        },
+        {
+          "src": "https://framerusercontent.com/images/GO77iiea6VEKNCaRx3Q8w4QNno0.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 354,
+          "h": 236
+        },
+        {
+          "src": "https://framerusercontent.com/images/Ob5Dj4d9mP9IFP2uOdNFtDbaL3s.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 354,
+          "h": 236
+        },
+        {
+          "src": "https://framerusercontent.com/images/9dgcKvnAb2LhpUGfJtODnhn2c.jpg?width=1200&height=1800",
+          "alt": "",
+          "w": 355,
+          "h": 532
+        },
+        {
+          "src": "https://framerusercontent.com/images/TRJhOWnmoVYycDE0bqQ4lHsMNW8.jpg?width=1200&height=1800",
+          "alt": "",
+          "w": 355,
+          "h": 532
+        },
+        {
+          "src": "https://framerusercontent.com/images/4tQ04eGz9q3IUgh4BPYa2YWsT4.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 354,
+          "h": 236
+        },
+        {
+          "src": "https://framerusercontent.com/images/OgeayPvpkxVSkiHlYeROjAjiQGI.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 354,
+          "h": 236
+        },
+        {
+          "src": "https://framerusercontent.com/images/pJe6idhcBvmaQVUFt35x1zUFmLo.jpg?width=1200&height=1800",
+          "alt": "",
+          "w": 355,
+          "h": 532
+        },
+        {
+          "src": "https://framerusercontent.com/images/3qzZQtJahmMjhoK54ZsZuyE68FI.jpg?width=1200&height=1800",
+          "alt": "",
+          "w": 355,
+          "h": 532
+        },
+        {
+          "src": "https://framerusercontent.com/images/qMKzSgrCiawDFRAWKS6yFrh18rI.jpg?width=1200&height=1800",
+          "alt": "",
+          "w": 355,
+          "h": 532
+        },
+        {
+          "src": "https://framerusercontent.com/images/1sJLthbezcT6hhL56WwLZDkEsQ.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 354,
+          "h": 236
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "A",
+          "text": "ORDER ONLINE",
+          "href": "https://real-project-691891.framer.app/menu#burgers",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "BURGERS",
+          "href": "https://real-project-691891.framer.app/menu#burgers",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "12px 20px",
+            "margin": "0px",
+            "gap": "8px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "PIZZA",
+          "href": "https://real-project-691891.framer.app/menu#pizza",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 255, 255)",
+            "padding": "12px 20px",
+            "margin": "0px",
+            "gap": "8px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "SIDES & SNACKS",
+          "href": "https://real-project-691891.framer.app/menu#sides",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "12px 20px",
+            "margin": "0px",
+            "gap": "8px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "PASTA & BOWLS",
+          "href": "https://real-project-691891.framer.app/menu#pasta",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 255, 255)",
+            "padding": "12px 20px",
+            "margin": "0px",
+            "gap": "8px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "DRINKS & DESSERTS",
+          "href": "https://real-project-691891.framer.app/menu#drinks",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "12px 20px",
+            "margin": "0px",
+            "gap": "8px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER NOW",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FLAME BURGER",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "HOME",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "MENU",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(227, 6, 19)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "OFFERS",
+          "href": "https://real-project-691891.framer.app/offers",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "EVENTS",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ABOUT",
+          "href": "https://real-project-691891.framer.app/about",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "BLOG",
+          "href": "https://real-project-691891.framer.app/blog",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "CONTACT",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER NOW",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(35, 114, 39)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FLAME BURGER",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "+91 62 387 10413",
+          "href": "tel:+12125550186",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "hello@flameburger.example",
+          "href": "mailto:hello@zestivo.example",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Home",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Menu",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgb(255, 218, 26)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Offers",
+          "href": "https://real-project-691891.framer.app/offers",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Events",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "About",
+          "href": "https://real-project-691891.framer.app/about",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Blog",
+          "href": "https://real-project-691891.framer.app/blog",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Contact",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Catering",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FAQs",
+          "href": "https://real-project-691891.framer.app/contact#faq",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        }
+      ],
+      "forms": []
+    }
+  },
+  "offers": {
+    "url": "https://real-project-691891.framer.app/offers",
+    "viewports": {},
+    "data": {
+      "framerSections": [
+        {
+          "name": "Hero",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 772
+          },
+          "textPreview": "SPECIAL OFFERS MORE FLAVOR FOR LESS. Great food tastes even better with a great deal. Explore our limited-time combos and shareable favorites while they last. ORDER A DEAL LIMI"
+        },
+        {
+          "name": "Container",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 500
+          },
+          "textPreview": "SPECIAL OFFERS MORE FLAVOR FOR LESS. Great food tastes even better with a great deal. Explore our limited-time combos and shareable favorites while they last. ORDER A DEAL LIMI"
+        },
+        {
+          "name": "Desktop",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 500
+          },
+          "textPreview": "SPECIAL OFFERS MORE FLAVOR FOR LESS. Great food tastes even better with a great deal. Explore our limited-time combos and shareable favorites while they last. ORDER A DEAL LIMI"
+        },
+        {
+          "name": "Text",
+          "tag": "DIV",
+          "rect": {
+            "w": 568,
+            "h": 479
+          },
+          "textPreview": "SPECIAL OFFERS MORE FLAVOR FOR LESS. Great food tastes even better with a great deal. Explore our limited-time combos and shareable favorites while they last. ORDER A DEAL"
+        },
+        {
+          "name": "Visual",
+          "tag": "DIV",
+          "rect": {
+            "w": 568,
+            "h": 500
+          },
+          "textPreview": "LIMITED TIME ONLY"
+        },
+        {
+          "name": "Image",
+          "tag": "DIV",
+          "rect": {
+            "w": 585,
+            "h": 520
+          },
+          "textPreview": ""
+        },
+        {
+          "name": "Deals",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 1488
+          },
+          "textPreview": "COMBOS & BUNDLES PICK YOUR DEAL Combos made for solo cravings, date nights, and the whole hungry crew. SAVE 25% THE ZESTIVO COMBO One signature burger, golden fries, and a regu"
+        },
+        {
+          "name": "Header",
+          "tag": "DIV",
+          "rect": {
+            "w": 760,
+            "h": 161
+          },
+          "textPreview": "COMBOS & BUNDLES PICK YOUR DEAL Combos made for solo cravings, date nights, and the whole hungry crew."
+        },
+        {
+          "name": "Grid",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 1031
+          },
+          "textPreview": "SAVE 25% THE ZESTIVO COMBO One signature burger, golden fries, and a regular drink. A complete craving fix in one easy combo. ORDER THIS DEAL SAVE 30% PIZZA NIGHT BUNDLE One la"
+        },
+        {
+          "name": "Red",
+          "tag": "DIV",
+          "rect": {
+            "w": 582,
+            "h": 497
+          },
+          "textPreview": "SAVE 25% THE ZESTIVO COMBO One signature burger, golden fries, and a regular drink. A complete craving fix in one easy combo. ORDER THIS DEAL"
+        },
+        {
+          "name": "Body",
+          "tag": "DIV",
+          "rect": {
+            "w": 554,
+            "h": 219
+          },
+          "textPreview": "THE ZESTIVO COMBO One signature burger, golden fries, and a regular drink. A complete craving fix in one easy combo. ORDER THIS DEAL"
+        },
+        {
+          "name": "Yellow",
+          "tag": "DIV",
+          "rect": {
+            "w": 582,
+            "h": 497
+          },
+          "textPreview": "SAVE 30% PIZZA NIGHT BUNDLE One large pizza, two sides, and two drinks—made for sharing with your favorite people. ORDER THIS DEAL"
+        },
+        {
+          "name": "Cream",
+          "tag": "DIV",
+          "rect": {
+            "w": 582,
+            "h": 497
+          },
+          "textPreview": "SAVE 20% CRISPY CHICKEN BOX Crispy chicken tenders, seasoned fries, and your choice of dipping sauce. ORDER THIS DEAL"
+        },
+        {
+          "name": "Limited-Time Special",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 720
+          },
+          "textPreview": "TODAY’S SPECIAL LIMITED TIME HOT, CRISPY, AND READY TO GO Try our smoky BBQ chicken wings tossed in a tangy house glaze and served with a cool dipping sauce. Available for a lim"
+        },
+        {
+          "name": "Split",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 480
+          },
+          "textPreview": "TODAY’S SPECIAL LIMITED TIME HOT, CRISPY, AND READY TO GO Try our smoky BBQ chicken wings tossed in a tangy house glaze and served with a cool dipping sauce. Available for a lim"
+        },
+        {
+          "name": "Photo",
+          "tag": "DIV",
+          "rect": {
+            "w": 580,
+            "h": 499
+          },
+          "textPreview": ""
+        },
+        {
+          "name": "Offer Terms",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 305
+          },
+          "textPreview": "OFFER TERMS Promotions are subject to availability and may vary by location. Offers cannot be combined unless stated. Please check the ordering page for current prices and terms."
+        },
+        {
+          "name": "Terms",
+          "tag": "DIV",
+          "rect": {
+            "w": 860,
+            "h": 145
+          },
+          "textPreview": "OFFER TERMS Promotions are subject to availability and may vary by location. Offers cannot be combined unless stated. Please check the ordering page for current prices and terms."
+        },
+        {
+          "name": "Final CTA",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 703
+          },
+          "textPreview": "DEAL OR NO DEAL? YOUR FAVORITE DEAL IS CALLING. Choose your combo, place your order, and make your next meal extra satisfying. ORDER NOW"
+        },
+        {
+          "name": "Footer",
+          "tag": "FOOTER",
+          "rect": {
+            "w": 1440,
+            "h": 744
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example QUICK LINKS Home Menu Offers Events About "
+        },
+        {
+          "name": "Columns",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 299
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example QUICK LINKS Home Menu Offers Events About "
+        },
+        {
+          "name": "Brand",
+          "tag": "DIV",
+          "rect": {
+            "w": 510,
+            "h": 279
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "MORE FLAVOR FOR LESS.",
+          "styles": {
+            "fontSize": "76px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "74.48px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "PICK YOUR DEAL",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "SAVE 25%",
+          "styles": {
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "19px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "THE ZESTIVO COMBO",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "SAVE 30%",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PIZZA NIGHT BUNDLE",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "SAVE 20%",
+          "styles": {
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "19px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "CRISPY CHICKEN BOX",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "GROUP FAVE",
+          "styles": {
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "19px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "FAMILY FEAST",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "HOT, CRISPY, AND READY TO GO",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "OFFER TERMS",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H1",
+          "text": "YOUR FAVORITE DEAL IS CALLING.",
+          "styles": {
+            "fontSize": "76px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "74.48px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "SMASH BURGERS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "OVEN-FRESH PIZZA",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "CRISPY CHICKEN",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "GOLDEN FRIES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "FRESH SANDWICHES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PASTA FAVORITES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BIG FLAVOR",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "GOOD MOOD",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BIG FLAVOR. GOOD MOOD. EVERY BITE.",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(255, 170, 0)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "https://framerusercontent.com/images/oEHJzbQiDCACgTWdwN5wsLoB5c4.jpg?width=1200&height=800",
+          "alt": "More Flavor for Less.",
+          "w": 568,
+          "h": 378
+        },
+        {
+          "src": "https://framerusercontent.com/images/oEHJzbQiDCACgTWdwN5wsLoB5c4.jpg?width=1200&height=800",
+          "alt": "The Zestivo Combo",
+          "w": 568,
+          "h": 378
+        },
+        {
+          "src": "https://framerusercontent.com/images/lIRYM6TFxYkRmo11piik832zrkQ.jpg?width=1200&height=960",
+          "alt": "Pizza Night Bundle",
+          "w": 554,
+          "h": 443
+        },
+        {
+          "src": "https://framerusercontent.com/images/ZkyJGMVxN00PSmRTtPxyhBKSSE.jpg?width=1200&height=800",
+          "alt": "Crispy Chicken Box",
+          "w": 554,
+          "h": 369
+        },
+        {
+          "src": "https://framerusercontent.com/images/LlyagBKV51W8obxzUCnsufrFX6Q.jpg?width=1200&height=800",
+          "alt": "Family Feast",
+          "w": 554,
+          "h": 369
+        },
+        {
+          "src": "https://framerusercontent.com/images/EkAkGriyOAMD9PoUE3mITcxlA.jpg?width=1200&height=1450",
+          "alt": "Buffalo chicken wings with green onions and a side of ranch dressing",
+          "w": 564,
+          "h": 681
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "A",
+          "text": "ORDER A DEAL",
+          "href": "https://real-project-691891.framer.app/offers#deals",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER THIS DEAL",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(20, 20, 20)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER THIS DEAL",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(20, 20, 20)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER THIS DEAL",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(20, 20, 20)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER THIS DEAL",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(20, 20, 20)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "GET THE SPECIAL",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER NOW",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FLAME BURGER",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "HOME",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "MENU",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "OFFERS",
+          "href": "https://real-project-691891.framer.app/offers",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(227, 6, 19)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "EVENTS",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ABOUT",
+          "href": "https://real-project-691891.framer.app/about",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "BLOG",
+          "href": "https://real-project-691891.framer.app/blog",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "CONTACT",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER NOW",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(35, 114, 39)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FLAME BURGER",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "+91 62 387 10413",
+          "href": "tel:+12125550186",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "hello@flameburger.example",
+          "href": "mailto:hello@zestivo.example",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Home",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Menu",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Offers",
+          "href": "https://real-project-691891.framer.app/offers",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgb(255, 218, 26)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Events",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "About",
+          "href": "https://real-project-691891.framer.app/about",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Blog",
+          "href": "https://real-project-691891.framer.app/blog",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Contact",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Catering",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FAQs",
+          "href": "https://real-project-691891.framer.app/contact#faq",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        }
+      ],
+      "forms": []
+    }
+  },
+  "events": {
+    "url": "https://real-project-691891.framer.app/events",
+    "viewports": {}
+  },
+  "about": {
+    "url": "https://real-project-691891.framer.app/about",
+    "viewports": {},
+    "data": {
+      "framerSections": [
+        {
+          "name": "Hero",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 930
+          },
+          "textPreview": "OUR STORY GOOD FOOD. GREAT ENERGY. THAT’S ZESTIVO. We believe the best meals bring people together. ZESTIVO was built around fresh flavors, satisfying favorites, and a welcoming "
+        },
+        {
+          "name": "Container",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 658
+          },
+          "textPreview": "OUR STORY GOOD FOOD. GREAT ENERGY. THAT’S ZESTIVO. We believe the best meals bring people together. ZESTIVO was built around fresh flavors, satisfying favorites, and a welcoming "
+        },
+        {
+          "name": "Desktop",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 658
+          },
+          "textPreview": "OUR STORY GOOD FOOD. GREAT ENERGY. THAT’S ZESTIVO. We believe the best meals bring people together. ZESTIVO was built around fresh flavors, satisfying favorites, and a welcoming "
+        },
+        {
+          "name": "Text",
+          "tag": "DIV",
+          "rect": {
+            "w": 568,
+            "h": 658
+          },
+          "textPreview": "OUR STORY GOOD FOOD. GREAT ENERGY. THAT’S ZESTIVO. We believe the best meals bring people together. ZESTIVO was built around fresh flavors, satisfying favorites, and a welcoming "
+        },
+        {
+          "name": "Visual",
+          "tag": "DIV",
+          "rect": {
+            "w": 568,
+            "h": 500
+          },
+          "textPreview": "EST. IN BROOKLYN"
+        },
+        {
+          "name": "Image",
+          "tag": "DIV",
+          "rect": {
+            "w": 585,
+            "h": 520
+          },
+          "textPreview": ""
+        },
+        {
+          "name": "Our Story",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 760
+          },
+          "textPreview": "SMASHED TO ORDER HOW IT STARTED A FRESH TAKE ON EVERYDAY FAVORITES ZESTIVO began with one simple idea: familiar comfort food can still feel exciting. We bring classic favorites "
+        },
+        {
+          "name": "Split",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 520
+          },
+          "textPreview": "SMASHED TO ORDER HOW IT STARTED A FRESH TAKE ON EVERYDAY FAVORITES ZESTIVO began with one simple idea: familiar comfort food can still feel exciting. We bring classic favorites "
+        },
+        {
+          "name": "Photo",
+          "tag": "DIV",
+          "rect": {
+            "w": 582,
+            "h": 539
+          },
+          "textPreview": ""
+        },
+        {
+          "name": "Mission",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 650
+          },
+          "textPreview": "OUR MISSION MAKE EVERY BITE COUNT Our mission is to serve crave-worthy food with care, keep service friendly and straightforward, and create a place where everyone can find somet"
+        },
+        {
+          "name": "Values",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 796
+          },
+          "textPreview": "OUR VALUES WHAT WE BRING TO THE TABLE QUALITY FIRST We pay attention to ingredients, preparation, and the little details that make a meal better. FLAVOR WITHOUT COMPROMISE We l"
+        },
+        {
+          "name": "Header",
+          "tag": "DIV",
+          "rect": {
+            "w": 760,
+            "h": 166
+          },
+          "textPreview": "OUR VALUES WHAT WE BRING TO THE TABLE"
+        },
+        {
+          "name": "Grid",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 334
+          },
+          "textPreview": "QUALITY FIRST We pay attention to ingredients, preparation, and the little details that make a meal better. FLAVOR WITHOUT COMPROMISE We love bold combinations, satisfying textu"
+        },
+        {
+          "name": "Why Guests Choose Us",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 720
+          },
+          "textPreview": "WHY GUESTS CHOOSE ZESTIVO MADE FOR REAL-LIFE CRAVINGS A flexible menu, generous portions, friendly service, and options for solo meals or group gatherings make ZESTIVO a go-to fo"
+        },
+        {
+          "name": "Stats",
+          "tag": "DIV",
+          "rect": {
+            "w": 564,
+            "h": 112
+          },
+          "textPreview": "18+ MENU FAVORITES 7 DAYS A WEEK 200 GUESTS CATERED"
+        },
+        {
+          "name": "Opening Hours",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 624
+          },
+          "textPreview": "OPENING HOURS COME BY WHEN YOU’RE HUNGRY Find us at 123 Flavor Street, Brooklyn. Walk in, grab a booth, and let the grill do the talking. GET DIRECTIONS FLAME BURGER OPENING H"
+        },
+        {
+          "name": "Receipt Wrap",
+          "tag": "DIV",
+          "rect": {
+            "w": 564,
+            "h": 400
+          },
+          "textPreview": "FLAME BURGER OPENING HOURS · ORDER #001 MON – THU 10 AM – 10 PM FRI – SUN 10 AM – 11 PM OPEN 7 DAYS A WEEK Thank you for eating with zest!"
+        },
+        {
+          "name": "Final CTA",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 793
+          },
+          "textPreview": "COME HUNGRY COME HUNGRY. LEAVE HAPPY. Discover your new favorite and see what a little extra zest can do. VIEW THE MENU"
+        },
+        {
+          "name": "Footer",
+          "tag": "FOOTER",
+          "rect": {
+            "w": 1440,
+            "h": 744
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example QUICK LINKS Home Menu Offers Events About "
+        },
+        {
+          "name": "Columns",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 299
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example QUICK LINKS Home Menu Offers Events About "
+        },
+        {
+          "name": "Brand",
+          "tag": "DIV",
+          "rect": {
+            "w": 510,
+            "h": 279
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "GOOD FOOD. GREAT ENERGY. THAT’S ZESTIVO.",
+          "styles": {
+            "fontSize": "76px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "74.48px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "A FRESH TAKE ON EVERYDAY FAVORITES",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H1",
+          "text": "MAKE EVERY BITE COUNT",
+          "styles": {
+            "fontSize": "124px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "114.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "WHAT WE BRING TO THE TABLE",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "QUALITY FIRST",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "FLAVOR WITHOUT COMPROMISE",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "PEOPLE MATTER",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "ALWAYS WELCOMING",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "MADE FOR REAL-LIFE CRAVINGS",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "18+",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "7",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "200",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "COME BY WHEN YOU’RE HUNGRY",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "FLAME BURGER",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(35, 114, 39)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "MON – THU",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "FRI – SUN",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H1",
+          "text": "COME HUNGRY. LEAVE HAPPY.",
+          "styles": {
+            "fontSize": "76px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "74.48px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "SMASH BURGERS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "OVEN-FRESH PIZZA",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "CRISPY CHICKEN",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "GOLDEN FRIES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "FRESH SANDWICHES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PASTA FAVORITES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BIG FLAVOR",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "GOOD MOOD",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BIG FLAVOR. GOOD MOOD. EVERY BITE.",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(255, 170, 0)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "https://framerusercontent.com/images/jmidsn1yWfFeFR2iOaZ7AjUgMA.jpg?width=1200&height=900",
+          "alt": "Good Food. Great Energy. That’s ZESTIVO.",
+          "w": 568,
+          "h": 426
+        },
+        {
+          "src": "https://framerusercontent.com/images/rHx2lXUoYm6Ek2jPOQbyuBmMuhw.jpg?width=1200&height=1598",
+          "alt": "A person in a black shirt pressing burger patties on a flat top grill",
+          "w": 564,
+          "h": 752
+        },
+        {
+          "src": "https://framerusercontent.com/images/Qbm5NAhAqqLcjdcyqLnvJ1lxLT0.jpg?width=1200&height=1800",
+          "alt": "A retro diner with neon signs at night",
+          "w": 564,
+          "h": 846
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "A",
+          "text": "EXPLORE OUR MENU",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "GET DIRECTIONS",
+          "href": "https://maps.google.com/?q=123+Flavor+Street+Brooklyn+NY+11201",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "VIEW THE MENU",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FLAME BURGER",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "HOME",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "MENU",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "OFFERS",
+          "href": "https://real-project-691891.framer.app/offers",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "EVENTS",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ABOUT",
+          "href": "https://real-project-691891.framer.app/about",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(227, 6, 19)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "BLOG",
+          "href": "https://real-project-691891.framer.app/blog",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "CONTACT",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER NOW",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(35, 114, 39)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FLAME BURGER",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "+91 62 387 10413",
+          "href": "tel:+12125550186",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "hello@flameburger.example",
+          "href": "mailto:hello@zestivo.example",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Home",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Menu",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Offers",
+          "href": "https://real-project-691891.framer.app/offers",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Events",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "About",
+          "href": "https://real-project-691891.framer.app/about",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgb(255, 218, 26)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Blog",
+          "href": "https://real-project-691891.framer.app/blog",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Contact",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Catering",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FAQs",
+          "href": "https://real-project-691891.framer.app/contact#faq",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        }
+      ],
+      "forms": []
+    }
+  },
+  "blog": {
+    "url": "https://real-project-691891.framer.app/blog",
+    "viewports": {},
+    "data": {
+      "framerSections": [
+        {
+          "name": "Hero",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 772
+          },
+          "textPreview": "THE ZESTIVO JOURNAL FRESH STORIES. FULL OF FLAVOR. Get inspired with kitchen tips, ingredient spotlights, food trends, and stories from the world of feel-good food. NEW EVERY WE"
+        },
+        {
+          "name": "Container",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 500
+          },
+          "textPreview": "THE ZESTIVO JOURNAL FRESH STORIES. FULL OF FLAVOR. Get inspired with kitchen tips, ingredient spotlights, food trends, and stories from the world of feel-good food. NEW EVERY WE"
+        },
+        {
+          "name": "Desktop",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 500
+          },
+          "textPreview": "THE ZESTIVO JOURNAL FRESH STORIES. FULL OF FLAVOR. Get inspired with kitchen tips, ingredient spotlights, food trends, and stories from the world of feel-good food. NEW EVERY WE"
+        },
+        {
+          "name": "Text",
+          "tag": "DIV",
+          "rect": {
+            "w": 568,
+            "h": 476
+          },
+          "textPreview": "THE ZESTIVO JOURNAL FRESH STORIES. FULL OF FLAVOR. Get inspired with kitchen tips, ingredient spotlights, food trends, and stories from the world of feel-good food."
+        },
+        {
+          "name": "Visual",
+          "tag": "DIV",
+          "rect": {
+            "w": 568,
+            "h": 500
+          },
+          "textPreview": "NEW EVERY WEEK"
+        },
+        {
+          "name": "Image",
+          "tag": "DIV",
+          "rect": {
+            "w": 585,
+            "h": 520
+          },
+          "textPreview": ""
+        },
+        {
+          "name": "Featured Article",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 748
+          },
+          "textPreview": "FEATURED READ 5 MIN READ THE SECRET TO A BETTER BURGER AT HOME A great burger is all about balance: a flavorful patty, a soft toasted bun, crisp toppings, and a sauce that bring"
+        },
+        {
+          "name": "Featured List",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 524
+          },
+          "textPreview": "FEATURED READ 5 MIN READ THE SECRET TO A BETTER BURGER AT HOME A great burger is all about balance: a flavorful patty, a soft toasted bun, crisp toppings, and a sauce that bring"
+        },
+        {
+          "name": "Featured Post",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 524
+          },
+          "textPreview": "FEATURED READ 5 MIN READ THE SECRET TO A BETTER BURGER AT HOME A great burger is all about balance: a flavorful patty, a soft toasted bun, crisp toppings, and a sauce that bring"
+        },
+        {
+          "name": "All Stories",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 1274
+          },
+          "textPreview": "MORE STORIES FRESH OFF THE PASS KITCHEN NOTES 4 min read WHY FRESH INGREDIENTS MAKE ALL THE DIFFERENCE Fresh ingredients bring color, texture, and flavor to the table. Learn w"
+        },
+        {
+          "name": "Header",
+          "tag": "DIV",
+          "rect": {
+            "w": 760,
+            "h": 111
+          },
+          "textPreview": "MORE STORIES FRESH OFF THE PASS"
+        },
+        {
+          "name": "Grid",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 987
+          },
+          "textPreview": "KITCHEN NOTES 4 min read WHY FRESH INGREDIENTS MAKE ALL THE DIFFERENCE Fresh ingredients bring color, texture, and flavor to the table. Learn why thoughtful sourcing and careful"
+        },
+        {
+          "name": "Post",
+          "tag": "DIV",
+          "rect": {
+            "w": 582,
+            "h": 488
+          },
+          "textPreview": "KITCHEN NOTES 4 min read WHY FRESH INGREDIENTS MAKE ALL THE DIFFERENCE Fresh ingredients bring color, texture, and flavor to the table. Learn why thoughtful sourcing and careful"
+        },
+        {
+          "name": "Default",
+          "tag": "A",
+          "rect": {
+            "w": 582,
+            "h": 488
+          },
+          "textPreview": "KITCHEN NOTES 4 min read WHY FRESH INGREDIENTS MAKE ALL THE DIFFERENCE Fresh ingredients bring color, texture, and flavor to the table. Learn why thoughtful sourcing and careful"
+        },
+        {
+          "name": "Body",
+          "tag": "DIV",
+          "rect": {
+            "w": 558,
+            "h": 244
+          },
+          "textPreview": "4 min read WHY FRESH INGREDIENTS MAKE ALL THE DIFFERENCE Fresh ingredients bring color, texture, and flavor to the table. Learn why thoughtful sourcing and careful preparation ca"
+        },
+        {
+          "name": "Newsletter",
+          "tag": "SECTION",
+          "rect": {
+            "w": 1440,
+            "h": 629
+          },
+          "textPreview": "NEWSLETTER A LITTLE ZEST IN YOUR INBOX Sign up for occasional updates on new menu items, special offers, and fresh stories from ZESTIVO. SUBSCRIBE"
+        },
+        {
+          "name": "Footer",
+          "tag": "FOOTER",
+          "rect": {
+            "w": 1440,
+            "h": 744
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example QUICK LINKS Home Menu Offers Events About "
+        },
+        {
+          "name": "Columns",
+          "tag": "DIV",
+          "rect": {
+            "w": 1200,
+            "h": 299
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example QUICK LINKS Home Menu Offers Events About "
+        },
+        {
+          "name": "Brand",
+          "tag": "DIV",
+          "rect": {
+            "w": 510,
+            "h": 279
+          },
+          "textPreview": "FLAME BURGER BIG FLAVOR. GOOD MOOD. EVERY BITE. 123 DD Street, Malappuram, NY 11201 +91 62 387 10413 hello@flameburger.example"
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "FRESH STORIES. FULL OF FLAVOR.",
+          "styles": {
+            "fontSize": "76px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "74.48px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "THE SECRET TO A BETTER BURGER AT HOME",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H2",
+          "text": "FRESH OFF THE PASS",
+          "styles": {
+            "fontSize": "54px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "55.08px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "WHY FRESH INGREDIENTS MAKE ALL THE DIFFERENCE",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "THE ULTIMATE GUIDE TO SHARING PIZZA",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "HOW TO BUILD THE PERFECT COMBO MEAL",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H4",
+          "text": "MEET THE SAUCES BEHIND OUR SIGNATURE FLAVOR",
+          "styles": {
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "24.15px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H1",
+          "text": "A LITTLE ZEST IN YOUR INBOX",
+          "styles": {
+            "fontSize": "76px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "74.48px",
+            "color": "rgb(255, 255, 255)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "SMASH BURGERS",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "OVEN-FRESH PIZZA",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "CRISPY CHICKEN",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "GOLDEN FRIES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "FRESH SANDWICHES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "PASTA FAVORITES",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BIG FLAVOR",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "GOOD MOOD",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "H3",
+          "text": "BIG FLAVOR. GOOD MOOD. EVERY BITE.",
+          "styles": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "fontFamily": "\"Archivo Black\", \"Archivo Black Placeholder\", sans-serif",
+            "lineHeight": "30.8px",
+            "color": "rgb(255, 170, 0)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "https://framerusercontent.com/images/V1HLWBuEnVYI3msfarDb3Gezc.jpg?width=1200&height=800",
+          "alt": "Fresh Stories. Full of Flavor.",
+          "w": 568,
+          "h": 378
+        },
+        {
+          "src": "https://framerusercontent.com/images/V1HLWBuEnVYI3msfarDb3Gezc.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 568,
+          "h": 378
+        },
+        {
+          "src": "https://framerusercontent.com/images/Bln2KQhwtDy47O4b26DNjJB45Cw.jpg?width=1200&height=1200",
+          "alt": "",
+          "w": 558,
+          "h": 558
+        },
+        {
+          "src": "https://framerusercontent.com/images/N8hFJY8e6GUlrDm5nWNvEHVPzY.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 558,
+          "h": 372
+        },
+        {
+          "src": "https://framerusercontent.com/images/EyFvLK79oD5ASNZXmETGcRLunLU.jpg?width=1200&height=801",
+          "alt": "",
+          "w": 558,
+          "h": 372
+        },
+        {
+          "src": "https://framerusercontent.com/images/GQIw80tPQ0qacIHLWTydlHWs8.jpg?width=1200&height=800",
+          "alt": "",
+          "w": 558,
+          "h": 372
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "A",
+          "text": "READ ARTICLE",
+          "href": "https://real-project-691891.framer.app/blog/the-secret-to-a-better-burger-at-home",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(255, 170, 0)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "text": "SUBSCRIBE",
+          "href": "",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 0)",
+            "bg": "rgb(35, 114, 39)",
+            "padding": "18px 28px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FLAME BURGER",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "HOME",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "MENU",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "OFFERS",
+          "href": "https://real-project-691891.framer.app/offers",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "EVENTS",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ABOUT",
+          "href": "https://real-project-691891.framer.app/about",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "BLOG",
+          "href": "https://real-project-691891.framer.app/blog",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(227, 6, 19)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "CONTACT",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "16.8px",
+            "color": "rgb(20, 20, 20)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "ORDER NOW",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgb(35, 114, 39)",
+            "padding": "8px 8px 8px 24px",
+            "margin": "0px",
+            "gap": "12px",
+            "borderRadius": "100px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FLAME BURGER",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "fontFamily": "sans-serif",
+            "lineHeight": "normal",
+            "color": "rgb(0, 0, 238)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "10px",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "+91 62 387 10413",
+          "href": "tel:+12125550186",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "hello@flameburger.example",
+          "href": "mailto:hello@zestivo.example",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Home",
+          "href": "https://real-project-691891.framer.app/",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Menu",
+          "href": "https://real-project-691891.framer.app/menu",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Offers",
+          "href": "https://real-project-691891.framer.app/offers",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Events",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "About",
+          "href": "https://real-project-691891.framer.app/about",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Blog",
+          "href": "https://real-project-691891.framer.app/blog",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgb(255, 218, 26)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Contact",
+          "href": "https://real-project-691891.framer.app/contact",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "Catering",
+          "href": "https://real-project-691891.framer.app/events",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        },
+        {
+          "tag": "A",
+          "text": "FAQs",
+          "href": "https://real-project-691891.framer.app/contact#faq",
+          "styles": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "fontFamily": "\"Bricolage Grotesque\", \"Bricolage Grotesque Placeholder\", sans-serif",
+            "lineHeight": "26.35px",
+            "color": "rgba(255, 255, 255, 0.72)",
+            "bg": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "borderRadius": "0px",
+            "maxWidth": "none"
+          }
+        }
+      ],
+      "forms": [
+        {
+          "tag": "FORM",
+          "type": "",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "name": "email",
+          "placeholder": "your@email.com",
+          "required": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "website",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "company",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "message",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "subject",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "title",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "description",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "feedback",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "notes",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "details",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "remarks",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "comments",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    }
+  },
+  "contact": {
+    "url": "https://real-project-691891.framer.app/contact",
+    "viewports": {}
+  }
+}
