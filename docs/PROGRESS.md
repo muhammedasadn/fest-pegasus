@@ -28,5 +28,5 @@
 | 13 | `FAQSection` | ✅ | ✅ | ✅ | ✅ | 5 spring accordion items, toggle button plus/minus rotation morph, responsive 2-column |
 | 14 | `GallerySection` | ✅ | ✅ | ✅ | ✅ | Continuous dual-direction photo ticker, 10 food photos, alternating tilts & widths |
 | 15 | `BlogPreviewSection` | ✅ | ✅ | ✅ | ✅ | 3 Flame Journal cards with metadata, rotated category tags, Read Story CTAs |
-| 16 | `FinalCTASection` | ⬜ | ⬜ | ⬜ | ⬜ | "Hungry Yet?", 4 floating animated badges |
-| 17 | `Footer` | ⬜ | ⬜ | ⬜ | ⬜ | Giant "FLAME BURGER" logo, socials, hours |
+| 16 | `FinalCTASection` | ✅ | ✅ | ✅ | ✅ | "Hungry Yet?", 4 floating animated badges with mirror float loops, Order Now CTA |
+| 17 | `Footer` | ✅ | ✅ | ✅ | ✅ | Giant "FLAME BURGER" logo, socials, 4-column layout, contact info & copyright bar |

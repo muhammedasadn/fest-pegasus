@@ -127,12 +127,16 @@ async function verify() {
     // Final CTA screenshot
     const finalCta = await page.$('#final-cta');
     if (finalCta) {
+      await finalCta.scrollIntoView();
+      await new Promise(r => setTimeout(r, 600));
       await finalCta.screenshot({ path: path.join(outDir, '14-final-cta.png') });
     }
 
     // Footer screenshot
     const footer = await page.$('footer');
     if (footer) {
+      await footer.scrollIntoView();
+      await new Promise(r => setTimeout(r, 600));
       await footer.screenshot({ path: path.join(outDir, '15-footer.png') });
     }
 

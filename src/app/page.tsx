@@ -12,6 +12,8 @@ import { TestimonialsSection } from "@/components/sections/TestimonialsSection";
 import { FAQSection } from "@/components/sections/FAQSection";
 import { GallerySection } from "@/components/sections/GallerySection";
 import { BlogPreviewSection } from "@/components/sections/BlogPreviewSection";
+import { FinalCTASection } from "@/components/sections/FinalCTASection";
+import { Footer } from "@/components/layout/Footer";
 
 export default function Home() {
   return (
@@ -30,6 +32,8 @@ export default function Home() {
       <FAQSection />
       <GallerySection />
       <BlogPreviewSection />
+      <FinalCTASection />
+      <Footer />
     </main>
   );
 }
