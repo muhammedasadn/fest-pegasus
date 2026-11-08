@@ -37,7 +37,7 @@ const BLOG_POSTS: BlogPost[] = [
     excerpt:
       "A great burger is all about balance: a flavorful patty, a soft toasted bun, crisp toppings, and a sauce that brings everything together. Discover the simple details that make every bite count.",
     imgSrc: "/assets/images/gallery-10.jpg",
-    href: "#blog",
+    href: "/blog/the-secret-to-a-better-burger-at-home",
   },
   {
     id: "fresh-ingredients",
@@ -50,7 +50,7 @@ const BLOG_POSTS: BlogPost[] = [
     excerpt:
       "Fresh ingredients bring color, texture, and flavor to the table. Learn why thoughtful sourcing and careful preparation can transform everyday favorites.",
     imgSrc: "/assets/images/testimonial-avatar-1.jpg",
-    href: "#blog",
+    href: "/blog/why-fresh-ingredients-make-all-the-difference",
   },
   {
     id: "sharing-pizza",
@@ -63,7 +63,7 @@ const BLOG_POSTS: BlogPost[] = [
     excerpt:
       "From choosing a mix of classic and adventurous toppings to picking the right sides, here is how to make pizza night work for everyone.",
     imgSrc: "/assets/images/gallery-07.jpg",
-    href: "#blog",
+    href: "/blog/the-ultimate-guide-to-sharing-pizza",
   },
 ];
 
@@ -110,7 +110,7 @@ export const BlogPreviewSection: React.FC = () => {
           {/* Read Journal CTA Button */}
           <motion.div variants={sectionFadeUpVariants} className="mt-7">
             <Link
-              href="#blog"
+              href="/blog"
               className="inline-flex items-center gap-3 pl-6 pr-2.5 py-2.5 rounded-full bg-[#141414] text-white font-sans font-extrabold text-[15px] sm:text-[16px] uppercase tracking-[0.48px] border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#FFAA00] hover:shadow-[2px_2px_0px_0px_#FFAA00] hover:translate-x-[2px] hover:translate-y-[2px] active:translate-x-[4px] active:translate-y-[4px] active:shadow-none transition-all duration-150 group"
             >
               <span>Read the Journal</span>

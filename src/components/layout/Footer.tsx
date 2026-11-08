@@ -80,13 +80,13 @@ export const Footer: React.FC = () => {
             </h4>
             <ul className="flex flex-col gap-3 font-sans text-[15px] sm:text-[17px] text-white/75">
               <li>
-                <Link href="#" className="hover:text-white transition-colors">
+                <Link href="/" className="hover:text-white transition-colors">
                   Home
                 </Link>
               </li>
               <li>
                 <Link
-                  href="#menu"
+                  href="/menu"
                   className="hover:text-white transition-colors"
                 >
                   Menu
@@ -94,7 +94,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <Link
-                  href="#offers"
+                  href="/offers"
                   className="hover:text-white transition-colors"
                 >
                   Offers
@@ -102,7 +102,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <Link
-                  href="#catering"
+                  href="/events"
                   className="hover:text-white transition-colors"
                 >
                   Events
@@ -110,7 +110,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <Link
-                  href="#about"
+                  href="/about"
                   className="hover:text-white transition-colors"
                 >
                   About
@@ -118,7 +118,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <Link
-                  href="#blog"
+                  href="/blog"
                   className="hover:text-white transition-colors"
                 >
                   Blog
@@ -126,7 +126,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <Link
-                  href="#hours"
+                  href="/contact"
                   className="hover:text-white transition-colors"
                 >
                   Contact
@@ -146,7 +146,7 @@ export const Footer: React.FC = () => {
             <ul className="flex flex-col gap-3 font-sans text-[15px] sm:text-[17px] text-white/75">
               <li>
                 <Link
-                  href="#catering"
+                  href="/events"
                   className="hover:text-white transition-colors"
                 >
                   Catering
@@ -154,7 +154,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <Link
-                  href="#faq"
+                  href="/contact#faq"
                   className="hover:text-white transition-colors"
                 >
                   FAQs

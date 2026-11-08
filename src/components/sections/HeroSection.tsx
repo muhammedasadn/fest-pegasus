@@ -65,10 +65,10 @@ export function HeroSection() {
           transition={{ duration: 0.7, delay: 0.35, type: "spring" }}
           className="flex flex-wrap items-center justify-center gap-4 mb-12 md:mb-16 z-30"
         >
-          <Button href="#menu" variant="yellow" size="md">
+          <Button href="/menu" variant="yellow" size="md">
             Order Now
           </Button>
-          <Button href="#menu" variant="white" size="md">
+          <Button href="/menu" variant="white" size="md">
             Explore Menu
           </Button>
         </motion.div>

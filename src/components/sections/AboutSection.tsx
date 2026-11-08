@@ -2,6 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { ArrowRight, Flame, Sparkles } from "lucide-react";
 import { Container } from "@/components/layout/Container";
@@ -52,11 +53,9 @@ export function AboutSection() {
             </p>
 
             {/* CTA Button */}
-            <motion.a
-              href="#story"
-              whileHover={{ scale: 1.04 }}
-              whileTap={{ scale: 0.98 }}
-              className="inline-flex items-center gap-4 bg-[#FFAA00] text-[#141414] rounded-full pl-7 pr-3 py-3 border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#141414] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] transition-all group"
+            <Link
+              href="/about"
+              className="inline-flex items-center gap-4 bg-[#FFAA00] text-[#141414] rounded-full pl-7 pr-3 py-3 border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#141414] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] active:scale-[0.98] transition-all group"
             >
               <span className="font-body font-extrabold text-[16px] uppercase tracking-[0.04em]">
                 OUR STORY
@@ -64,7 +63,7 @@ export function AboutSection() {
               <div className="w-9 h-9 rounded-full bg-white text-[#141414] flex items-center justify-center group-hover:bg-[#141414] group-hover:text-white transition-colors">
                 <ArrowRight className="w-4 h-4 stroke-[3]" />
               </div>
-            </motion.a>
+            </Link>
           </motion.div>
 
           {/* Right Column: 2 Stacked Angled Photos */}

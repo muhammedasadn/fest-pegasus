@@ -2,6 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { ArrowRight, Sparkles } from "lucide-react";
 import { Container } from "@/components/layout/Container";
@@ -171,40 +172,42 @@ export function CategoriesSection() {
               viewport={{ once: true, amount: 0.15 }}
               transition={{ delay: idx * 0.08, ...SPRING_PRESETS.enter }}
             >
-              <motion.div
-                whileHover={{
-                  y: -6,
-                  rotate: cat.tilt,
-                  transition: { type: "spring", stiffness: 350, damping: 22 },
-                }}
-                className="group relative flex flex-col h-full bg-white rounded-[28px] border-[3px] border-[#141414] shadow-[6px_6px_0px_0px_#141414] p-3 transition-colors cursor-pointer"
-              >
-                {/* Image Cover */}
-                <div className="relative w-full h-[230px] rounded-[18px] overflow-hidden border-[2px] border-[#141414] bg-[#FFF4DC]">
-                  <Image
-                    src={cat.image}
-                    alt={cat.title}
-                    fill
-                    sizes="(min-width: 1200px) 380px, (min-width: 768px) 50vw, 100vw"
-                    className="object-cover group-hover:scale-105 transition-transform duration-500 ease-out"
-                  />
+              <Link href="/menu" className="block h-full">
+                <motion.div
+                  whileHover={{
+                    y: -6,
+                    rotate: cat.tilt,
+                    transition: { type: "spring", stiffness: 350, damping: 22 },
+                  }}
+                  className="group relative flex flex-col h-full bg-white rounded-[28px] border-[3px] border-[#141414] shadow-[6px_6px_0px_0px_#141414] p-3 transition-colors cursor-pointer"
+                >
+                  {/* Image Cover */}
+                  <div className="relative w-full h-[230px] rounded-[18px] overflow-hidden border-[2px] border-[#141414] bg-[#FFF4DC]">
+                    <Image
+                      src={cat.image}
+                      alt={cat.title}
+                      fill
+                      sizes="(min-width: 1200px) 380px, (min-width: 768px) 50vw, 100vw"
+                      className="object-cover group-hover:scale-105 transition-transform duration-500 ease-out"
+                    />
 
-                  {/* Circular Icon Badge */}
-                  <div className="absolute top-3.5 right-3.5 w-[56px] h-[56px] rounded-full bg-[#FFAA00] border-[2.5px] border-[#141414] shadow-[3px_3px_0px_0px_#141414] flex items-center justify-center rotate-[-8deg] group-hover:rotate-[0deg] transition-transform duration-300 z-10">
-                    {cat.svgPaths}
+                    {/* Circular Icon Badge */}
+                    <div className="absolute top-3.5 right-3.5 w-[56px] h-[56px] rounded-full bg-[#FFAA00] border-[2.5px] border-[#141414] shadow-[3px_3px_0px_0px_#141414] flex items-center justify-center rotate-[-8deg] group-hover:rotate-[0deg] transition-transform duration-300 z-10">
+                      {cat.svgPaths}
+                    </div>
                   </div>
-                </div>
 
-                {/* Card Text Content */}
-                <div className="px-3 pt-5 pb-3 flex flex-col justify-between flex-grow">
-                  <h3 className="font-display font-normal text-[21px] leading-[1.15] uppercase text-[#141414] mb-2">
-                    {cat.title}
-                  </h3>
-                  <p className="font-body font-normal text-[16px] sm:text-[17px] leading-[1.5] text-[#141414]/75">
-                    {cat.description}
-                  </p>
-                </div>
-              </motion.div>
+                  {/* Card Text Content */}
+                  <div className="px-3 pt-5 pb-3 flex flex-col justify-between flex-grow">
+                    <h3 className="font-display font-normal text-[21px] leading-[1.15] uppercase text-[#141414] mb-2">
+                      {cat.title}
+                    </h3>
+                    <p className="font-body font-normal text-[16px] sm:text-[17px] leading-[1.5] text-[#141414]/75">
+                      {cat.description}
+                    </p>
+                  </div>
+                </motion.div>
+              </Link>
             </motion.div>
           ))}
         </div>

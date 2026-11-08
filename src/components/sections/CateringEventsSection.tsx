@@ -2,6 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { ArrowRight, PartyPopper, Users, Utensils, Pizza, Flame } from "lucide-react";
 import { Container } from "@/components/layout/Container";
@@ -67,11 +68,9 @@ export function CateringEventsSection() {
               From office lunches to backyard celebrations, our catering packages bring the full FLAME BURGER experience straight to your crowd.
             </p>
 
-            <motion.a
-              href="#contact"
-              whileHover={{ scale: 1.04 }}
-              whileTap={{ scale: 0.98 }}
-              className="inline-flex items-center gap-4 bg-[#FFAA00] text-[#141414] rounded-full pl-7 pr-3 py-3.5 border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#FFAA00] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] transition-all group"
+            <Link
+              href="/events"
+              className="inline-flex items-center gap-4 bg-[#FFAA00] text-[#141414] rounded-full pl-7 pr-3 py-3.5 border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#FFAA00] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] active:scale-[0.98] transition-all group"
             >
               <span className="font-body font-extrabold text-[16px] uppercase tracking-[0.04em]">
                 PLAN YOUR EVENT
@@ -79,7 +78,7 @@ export function CateringEventsSection() {
               <div className="w-9 h-9 rounded-full bg-[#141414] text-white flex items-center justify-center group-hover:bg-white group-hover:text-[#141414] transition-colors">
                 <ArrowRight className="w-4 h-4 stroke-[3]" />
               </div>
-            </motion.a>
+            </Link>
           </motion.div>
 
           {/* Right: Angled Featured Event Photo */}

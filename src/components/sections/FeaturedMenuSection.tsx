@@ -2,6 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { ArrowRight, Heart } from "lucide-react";
 import { Container } from "@/components/layout/Container";
@@ -103,11 +104,9 @@ export function FeaturedMenuSection() {
               Every FLAME BURGER favorite starts with quality ingredients, bold seasoning, and the kind of flavor that keeps you coming back.
             </p>
 
-            <motion.a
-              href="#full-menu"
-              whileHover={{ scale: 1.03 }}
-              whileTap={{ scale: 0.98 }}
-              className="inline-flex items-center gap-3 bg-[#E30613] text-white rounded-full pl-6 pr-2 py-2 border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#141414] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] transition-all group"
+            <Link
+              href="/menu"
+              className="inline-flex items-center gap-3 bg-[#E30613] text-white rounded-full pl-6 pr-2 py-2 border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#141414] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] active:scale-[0.98] transition-all group"
             >
               <span className="font-body font-extrabold text-[15px] uppercase tracking-[0.04em]">
                 SEE FULL MENU
@@ -115,7 +114,7 @@ export function FeaturedMenuSection() {
               <div className="w-9 h-9 rounded-full bg-white text-[#141414] flex items-center justify-center group-hover:bg-[#FFAA00] transition-colors">
                 <ArrowRight className="w-4 h-4 stroke-[3]" />
               </div>
-            </motion.a>
+            </Link>
           </div>
         </motion.div>
 
@@ -130,14 +129,15 @@ export function FeaturedMenuSection() {
               viewport={{ once: true, amount: 0.15 }}
               transition={{ delay: idx * 0.08, ...SPRING_PRESETS.enter }}
             >
-              <motion.div
-                whileHover={{
-                  y: -6,
-                  rotate: item.tilt,
-                  transition: { type: "spring", stiffness: 350, damping: 22 },
-                }}
-                className="group relative flex flex-col h-full bg-white rounded-[28px] border-[3px] border-[#141414] shadow-[6px_6px_0px_0px_#141414] p-3 transition-colors cursor-pointer"
-              >
+              <Link href="/menu" className="block h-full">
+                <motion.div
+                  whileHover={{
+                    y: -6,
+                    rotate: item.tilt,
+                    transition: { type: "spring", stiffness: 350, damping: 22 },
+                  }}
+                  className="group relative flex flex-col h-full bg-white rounded-[28px] border-[3px] border-[#141414] shadow-[6px_6px_0px_0px_#141414] p-3 transition-colors cursor-pointer"
+                >
                 {/* Image Cover with Price Badge */}
                 <div className="relative w-full h-[230px] rounded-[18px] overflow-hidden border-[2px] border-[#141414] bg-[#FFF4DC]">
                   <Image
@@ -166,7 +166,8 @@ export function FeaturedMenuSection() {
                   </p>
                 </div>
               </motion.div>
-            </motion.div>
+            </Link>
+          </motion.div>
           ))}
         </div>
       </Container>

@@ -2,6 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { ArrowRight, Tag } from "lucide-react";
 import { Container } from "@/components/layout/Container";
@@ -168,11 +169,9 @@ export function OffersSection() {
                   </div>
 
                   {/* Action Button */}
-                  <motion.a
-                    href="#order"
-                    whileHover={{ scale: 1.02 }}
-                    whileTap={{ scale: 0.98 }}
-                    className="inline-flex items-center justify-between w-full bg-[#141414] text-white rounded-full px-5 py-3 border-[2.5px] border-[#141414] shadow-[4px_4px_0px_0px_#141414] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] transition-all group/btn"
+                  <Link
+                    href="/offers"
+                    className="inline-flex items-center justify-between w-full bg-[#141414] text-white rounded-full px-5 py-3 border-[2.5px] border-[#141414] shadow-[4px_4px_0px_0px_#141414] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] active:scale-[0.98] transition-all group/btn"
                   >
                     <span className="font-body font-extrabold text-[15px] uppercase tracking-[0.04em]">
                       ORDER THIS DEAL
@@ -180,7 +179,7 @@ export function OffersSection() {
                     <div className="w-8 h-8 rounded-full bg-white text-[#141414] flex items-center justify-center group-hover/btn:bg-[#FFAA00] transition-colors">
                       <ArrowRight className="w-4 h-4 stroke-[3]" />
                     </div>
-                  </motion.a>
+                  </Link>
                 </div>
               </motion.div>
             </motion.div>
@@ -195,11 +194,9 @@ export function OffersSection() {
           viewport={{ once: true, amount: 0.2 }}
           className="flex justify-center"
         >
-          <motion.a
-            href="#offers"
-            whileHover={{ scale: 1.04 }}
-            whileTap={{ scale: 0.98 }}
-            className="inline-flex items-center gap-4 bg-[#FFAA00] text-[#141414] rounded-full pl-8 pr-3 py-3.5 border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#FFAA00] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] transition-all group"
+          <Link
+            href="/offers"
+            className="inline-flex items-center gap-4 bg-[#FFAA00] text-[#141414] rounded-full pl-8 pr-3 py-3.5 border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#FFAA00] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] active:scale-[0.98] transition-all group"
           >
             <span className="font-body font-extrabold text-[16px] uppercase tracking-[0.05em]">
               SEE ALL OFFERS
@@ -207,7 +204,7 @@ export function OffersSection() {
             <div className="w-9 h-9 rounded-full bg-[#141414] text-white flex items-center justify-center group-hover:bg-white group-hover:text-[#141414] transition-colors">
               <ArrowRight className="w-4 h-4 stroke-[3]" />
             </div>
-          </motion.a>
+          </Link>
         </motion.div>
       </Container>
     </section>

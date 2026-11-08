@@ -108,7 +108,7 @@ export const FinalCTASection: React.FC = () => {
             {/* CTA Button */}
             <motion.div variants={sectionFadeUpVariants} className="mt-8">
               <Link
-                href="#menu"
+                href="/menu"
                 className="inline-flex items-center gap-3 pl-7 pr-2.5 py-2.5 rounded-full bg-[#FFAA00] text-[#141414] font-sans font-extrabold text-[15px] sm:text-[16px] uppercase tracking-[0.48px] border-[3px] border-[#141414] shadow-[4px_4px_0px_0px_#141414] hover:shadow-[2px_2px_0px_0px_#141414] hover:translate-x-[2px] hover:translate-y-[2px] active:translate-x-[4px] active:translate-y-[4px] active:shadow-none transition-all duration-150 group"
               >
                 <span>Order Now</span>
