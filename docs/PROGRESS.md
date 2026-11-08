@@ -17,8 +17,8 @@
 | 2 | `HeroSection` (Static & Text Reveal) | ✅ | ✅ | ✅ | ✅ | Kinetic staggered word reveal with blur/rotation (124px Archivo Black) |
 | 3 | `HeroSection` (3D Centerpiece & Badges) | ✅ | ✅ | ✅ | ✅ | 3D parallax tilt & mirror float loop, 4 floating sticker badges |
 | 4 | `MarqueeSection` | ✅ | ✅ | ✅ | ✅ | Tri-color gradient, infinite smooth linear ticker with stars |
-| 5 | `CategoriesSection` | ⬜ | ⬜ | ⬜ | ⬜ | 5 cards, hover tilt springs, mobile scroll |
-| 6 | `OffersSection` | ⬜ | ⬜ | ⬜ | ⬜ | Dark background `#141414`, 3 deal cards |
+| 5 | `CategoriesSection` | ✅ | ✅ | ✅ | ✅ | 6 cards, 28px radius, 6px shadow, hover tilt springs, responsive grid |
+| 6 | `OffersSection` | ✅ | ✅ | ✅ | ✅ | Dark bg `#141414`, 3 deal cards (Green, Yellow, Cream) with sticker badges & "See All Offers" |
 | 7 | `FeaturedMenuSection` | ⬜ | ⬜ | ⬜ | ⬜ | Warm cream `#FFF4DC`, 6 menu cards with prices |
 | 8 | `AboutSection` | ⬜ | ⬜ | ⬜ | ⬜ | Forest green `#237227`, polaroid photo cards |
 | 9 | `OpeningHoursSection` | ⬜ | ⬜ | ⬜ | ⬜ | Amber yellow `#FFAA00`, "NOW OPEN" pulse badge |

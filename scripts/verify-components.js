@@ -45,6 +45,18 @@ async function verify() {
       await marquee.screenshot({ path: path.join(outDir, '02-marquee.png') });
     }
 
+    // Categories screenshot
+    const categories = await page.$('#categories');
+    if (categories) {
+      await categories.screenshot({ path: path.join(outDir, '03-popular-categories.png') });
+    }
+
+    // Offers screenshot
+    const offers = await page.$('#offers');
+    if (offers) {
+      await offers.screenshot({ path: path.join(outDir, '04-special-offers.png') });
+    }
+
     // If mobile, test menu click
     if (vp.name === 'mobile') {
       const menuBtn = await page.$('nav button');
