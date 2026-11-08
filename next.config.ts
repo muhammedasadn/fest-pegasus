@@ -1,21 +1,17 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  reactCompiler: true,
-  async redirects() {
-    return [
+  images: {
+    remotePatterns: [
       {
-        source: "/events",
-        destination: "/sports",
-        permanent: false,
+        protocol: "https",
+        hostname: "framerusercontent.com",
       },
       {
-        source: "/live",
-        destination: "/display",
-        permanent: false,
+        protocol: "https",
+        hostname: "fonts.gstatic.com",
       },
-    ];
+    ],
   },
 };
 

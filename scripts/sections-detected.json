@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "tagName": "DIV",
+    "framerName": "framer-fmax44-container",
+    "componentType": null,
+    "id": "",
+    "rect": {
+      "top": 12781.58984375,
+      "left": 635.8218383789062,
+      "width": 168.3406982421875,
+      "height": 47.5078125
+    },
+    "headings": [
+      "Hungry Yet?"
+    ]
+  },
+  {
+    "index": 1,
+    "tagName": "DIV",
+    "framerName": "framer-3kwjds",
+    "componentType": "RichTextContainer",
+    "id": "",
+    "rect": {
+      "top": 12849.34375,
+      "left": 270,
+      "width": 900,
+      "height": 223.453125
+    },
+    "headings": [
+      "Your Next Favorite Bite Is Waiting."
+    ]
+  },
+  {
+    "index": 2,
+    "tagName": "DIV",
+    "framerName": "framer-1603co3",
+    "componentType": "RichTextContainer",
+    "id": "",
+    "rect": {
+      "top": 13098.796875,
+      "left": 400,
+      "width": 640,
+      "height": 90
+    },
+    "headings": [
+      "Bring on the crunch, the melt, and the flavor. Order your FLAME BURGER favorites today and make your next meal something to look forward to."
+    ]
+  },
+  {
+    "index": 3,
+    "tagName": "DIV",
+    "framerName": "framer-g3yn3t-container",
+    "componentType": null,
+    "id": "",
+    "rect": {
+      "top": 13214.796875,
+      "left": 628.515625,
+      "width": 182.96875,
+      "height": 52
+    },
+    "headings": [
+      "Order Now"
+    ]
+  },
+  {
+    "index": 4,
+    "tagName": "DIV",
+    "framerName": "Floating Icon",
+    "componentType": null,
+    "id": "",
+    "rect": {
+      "top": 12724.0546875,
+      "left": 168.71102905273438,
+      "width": 106.57794189453125,
+      "height": 106.578125
+    },
+    "headings": []
+  },
+  {
+    "index": 5,
+    "tagName": "DIV",
+    "framerName": "Floating Icon",
+    "componentType": null,
+    "id": "",
+    "rect": {
+      "top": 13233.9130859375,
+      "left": 233.11581420898438,
+      "width": 87.76840209960938,
+      "height": 87.767578125
+    },
+    "headings": []
+  },
+  {
+    "index": 6,
+    "tagName": "DIV",
+    "framerName": "Floating Icon",
+    "componentType": null,
+    "id": "",
+    "rect": {
+      "top": 12742.2958984375,
+      "left": 1152.9517822265625,
+      "width": 88.096435546875,
+      "height": 88.095703125
+    },
+    "headings": []
+  },
+  {
+    "index": 7,
+    "tagName": "DIV",
+    "framerName": "Floating Icon",
+    "componentType": null,
+    "id": "",
+    "rect": {
+      "top": 13220.583984375,
+      "left": 1157.786865234375,
+      "width": 108.42626953125,
+      "height": 108.42578125
+    },
+    "headings": []
+  }
+]

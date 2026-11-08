@@ -1,0 +1,202 @@
+{
+  "burgerPlateHTML": "<div class=\"framer-1fsfwno hidden-185ajv8\" data-border=\"true\" data-framer-name=\"Burger Plate\" style=\"opacity: 1; transform: translateY(-0.362108px) rotate(-25deg); will-change: transform;\"><div style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\" data-framer-background-image-wrapper=\"true\"><img decoding=\"auto\" width=\"1200\" height=\"1200\" sizes=\"(min-width: 1200px) max(290px, 500px), (min-width: 810px) and (max-width: 1199.98px) max(290px, 390px), (max-width: 809.98px) 290px\" srcset=\"https://framerusercontent.com/images/5DEhx8qXRUbEXqRwbwUuzYm1GpU.png?scale-down-to=512&amp;width=1200&amp;height=1200 512w,https://framerusercontent.com/images/5DEhx8qXRUbEXqRwbwUuzYm1GpU.png?scale-down-to=1024&amp;width=1200&amp;height=1200 1024w,https://framerusercontent.com/images/5DEhx8qXRUbEXqRwbwUuzYm1GpU.png?width=1200&amp;height=1200 1200w\" src=\"https://framerusercontent.com/images/5DEhx8qXRUbEXqRwbwUuzYm1GpU.png?width=1200&amp;height=1200\" alt=\"Double pa",
+  "heroVisualHTML": "<div class=\"framer-5ilzv2\" data-framer-name=\"Hero Visual\"><div class=\"ssr-variant hidden-18gqq7k hidden-185ajv8\"><svg class=\"framer-ukzrlq\" data-framer-component-type=\"RichTextContainer\" viewBox=\"0 0 1120 495\" style=\"transform:none\"><foreignObject width=\"100%\" height=\"100%\" class=\"framer-fit-text\" transform=\"scale(1)\" style=\"overflow:visible;transform-origin:center center\"><p dir=\"auto\" style=\"--font-selector:R0Y7QXJjaGl2byBCbGFjay1yZWd1bGFy;--framer-font-family:&quot;Archivo Black&quot;, &quot;Archivo Black Placeholder&quot;, sans-serif;--framer-font-size:247.54279522675208px;--framer-letter-spacing:-0.03em;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:rgb(255, 170, 0)\" class=\"framer-text\">FLAME</p><p dir=\"auto\" style=\"--font-selector:R0Y7QXJjaGl2byBCbGFjay1yZWd1bGFy;--framer-font-family:&quot;Archivo Black&quot;, &quot;Archivo Black Placeholder&quot;, sans-serif;--framer-font-size:247.54279522675208px;--framer-letter-spacing:-0.03em;--framer-line-height:",
+  "floatingIcons": [
+    "<div class=\"framer-j08x2d\" data-border=\"true\" data-framer-name=\"Floating Icon\" style=\"opacity:1;transform:rotate(12deg)\"><svg class=\"framer-H65nR framer-c4925m\" role=\"presentation\" viewBox=\"0 0 24 24\"><use href=\"#3979720337\"></use></svg></div>",
+    "<div class=\"framer-eo9586\" data-border=\"true\" data-framer-name=\"Floating Icon\" style=\"--border-bottom-width:3px;--border-color:rgb(20, 20, 20);--border-left-width:3px;--border-right-width:3px;--border-style:solid;--border-top-width:3px;background-color:rgb(255, 170, 0);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;box-shadow:4px 4px 0px 0px rgb(20, 20, 20);opacity:1;transform:rotate(-10deg)\"><svg class=\"framer-B5C9y fr",
+    "<div class=\"framer-7g5zye\" data-border=\"true\" data-framer-name=\"Floating Icon\" style=\"--border-bottom-width:3px;--border-color:rgb(20, 20, 20);--border-left-width:3px;--border-right-width:3px;--border-style:solid;--border-top-width:3px;background-color:rgb(255, 255, 255);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;box-shadow:4px 4px 0px 0px rgb(20, 20, 20);opacity:1;transform:rotate(12deg)\"><svg class=\"framer-H65nR f",
+    "<div class=\"framer-ha4w27\" data-border=\"true\" data-framer-name=\"Floating Icon\" style=\"--border-bottom-width:3px;--border-color:rgb(20, 20, 20);--border-left-width:3px;--border-right-width:3px;--border-style:solid;--border-top-width:3px;background-color:rgb(255, 255, 255);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;box-shadow:4px 4px 0px 0px rgb(20, 20, 20);opacity:1;transform:rotate(8deg)\"><svg class=\"framer-CiNRj fr",
+    "<div class=\"framer-1ahru1f\" data-border=\"true\" data-framer-name=\"Floating Icon\" style=\"--border-bottom-width:3px;--border-color:rgb(20, 20, 20);--border-left-width:3px;--border-right-width:3px;--border-style:solid;--border-top-width:3px;background-color:rgb(255, 170, 0);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;box-shadow:4px 4px 0px 0px rgb(20, 20, 20);opacity:1;transform:rotate(-8deg)\"><svg class=\"framer-eEiky fr"
+  ],
+  "allImagesCount": 37,
+  "allImages": [
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/5DEhx8qXRUbEXqRwbwUuzYm1GpU.png?width=1200&height=1200",
+      "currentSrc": "https://framerusercontent.com/images/5DEhx8qXRUbEXqRwbwUuzYm1GpU.png?scale-down-to=1024&width=1200&height=1200",
+      "alt": "Double patty cheeseburger",
+      "width": 290,
+      "height": 308,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/5DEhx8qXRUbEXqRwbwUuzYm1GpU.png?width=1200&height=1200",
+      "currentSrc": "https://framerusercontent.com/images/5DEhx8qXRUbEXqRwbwUuzYm1GpU.png?scale-down-to=1024&width=1200&height=1200",
+      "alt": "Double patty cheeseburger",
+      "width": 500,
+      "height": 500,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/OPfX5fblGwfINI5WJokRdO7II0.jpg?width=736&height=736",
+      "currentSrc": "https://framerusercontent.com/images/OPfX5fblGwfINI5WJokRdO7II0.jpg?width=736&height=736",
+      "alt": "Double patty cheeseburger",
+      "width": 356,
+      "height": 330,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/ZXT4aya7lleaWWeXlptiyxJGn5U.jpg?width=1200&height=1798",
+      "currentSrc": "https://framerusercontent.com/images/ZXT4aya7lleaWWeXlptiyxJGn5U.jpg?width=1200&height=1798",
+      "alt": "Smash Burgers",
+      "width": 355,
+      "height": 230,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/3Zcm8e2m44XhZjKWnePboheLUU.jpg?width=1200&height=960",
+      "currentSrc": "https://framerusercontent.com/images/3Zcm8e2m44XhZjKWnePboheLUU.jpg?scale-down-to=1024&width=1200&height=960",
+      "alt": "Oven-Fresh Pizza",
+      "width": 355,
+      "height": 230,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/elcyYjMqIQMaWwPJuUKwWmGblqU.jpg?width=1200&height=1799",
+      "currentSrc": "https://framerusercontent.com/images/elcyYjMqIQMaWwPJuUKwWmGblqU.jpg?width=1200&height=1799",
+      "alt": "Crispy Chicken",
+      "width": 355,
+      "height": 230,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/o8pp0mTAR7OJrtG8GFhIgmudWE.jpg?width=1200&height=1800",
+      "currentSrc": "https://framerusercontent.com/images/o8pp0mTAR7OJrtG8GFhIgmudWE.jpg?width=1200&height=1800",
+      "alt": "Golden Fries",
+      "width": 355,
+      "height": 230,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/LaDUn0vIHw1pGxd8MZcxXIvJA.jpg?width=1200&height=1798",
+      "currentSrc": "https://framerusercontent.com/images/LaDUn0vIHw1pGxd8MZcxXIvJA.jpg?width=1200&height=1798",
+      "alt": "Fresh Sandwiches",
+      "width": 355,
+      "height": 230,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/mgsV6paOFv5lve1fb2YXQyxJEHY.jpg?width=1200&height=1800",
+      "currentSrc": "https://framerusercontent.com/images/mgsV6paOFv5lve1fb2YXQyxJEHY.jpg?width=1200&height=1800",
+      "alt": "Pasta Favorites",
+      "width": 355,
+      "height": 230,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/oEHJzbQiDCACgTWdwN5wsLoB5c4.jpg?width=1200&height=800",
+      "currentSrc": "https://framerusercontent.com/images/oEHJzbQiDCACgTWdwN5wsLoB5c4.jpg?scale-down-to=1024&width=1200&height=800",
+      "alt": "The Zestivo Combo",
+      "width": 351,
+      "height": 250,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/lIRYM6TFxYkRmo11piik832zrkQ.jpg?width=1200&height=960",
+      "currentSrc": "https://framerusercontent.com/images/lIRYM6TFxYkRmo11piik832zrkQ.jpg?scale-down-to=1024&width=1200&height=960",
+      "alt": "Pizza Party Deal",
+      "width": 351,
+      "height": 250,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/ZkyJGMVxN00PSmRTtPxyhBKSSE.jpg?width=1200&height=800",
+      "currentSrc": "https://framerusercontent.com/images/ZkyJGMVxN00PSmRTtPxyhBKSSE.jpg?scale-down-to=1024&width=1200&height=800",
+      "alt": "Crispy Chicken Box",
+      "width": 351,
+      "height": 250,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/GYc3BaU8pb2fvzx4owj0VTt7848.jpg?width=1200&height=1800",
+      "currentSrc": "https://framerusercontent.com/images/GYc3BaU8pb2fvzx4owj0VTt7848.jpg?width=1200&height=1800",
+      "alt": "",
+      "width": 355,
+      "height": 240,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/Nvjd6R13s17aGtGNP5lY9ApRE.jpg?width=1200&height=1800",
+      "currentSrc": "https://framerusercontent.com/images/Nvjd6R13s17aGtGNP5lY9ApRE.jpg?width=1200&height=1800",
+      "alt": "",
+      "width": 355,
+      "height": 240,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/cekrgkUE9GmPX1yjVD1Hujc8s.jpg?width=1200&height=800",
+      "currentSrc": "https://framerusercontent.com/images/cekrgkUE9GmPX1yjVD1Hujc8s.jpg?scale-down-to=1024&width=1200&height=800",
+      "alt": "",
+      "width": 355,
+      "height": 240,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/jLoCS8kGFP7nYlrFlzTErmGU.jpg?width=1200&height=1600",
+      "currentSrc": "https://framerusercontent.com/images/jLoCS8kGFP7nYlrFlzTErmGU.jpg?scale-down-to=1024&width=1200&height=1600",
+      "alt": "",
+      "width": 355,
+      "height": 240,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/Ob5Dj4d9mP9IFP2uOdNFtDbaL3s.jpg?width=1200&height=800",
+      "currentSrc": "https://framerusercontent.com/images/Ob5Dj4d9mP9IFP2uOdNFtDbaL3s.jpg?scale-down-to=1024&width=1200&height=800",
+      "alt": "",
+      "width": 355,
+      "height": 240,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/TRJhOWnmoVYycDE0bqQ4lHsMNW8.jpg?width=1200&height=1800",
+      "currentSrc": "https://framerusercontent.com/images/TRJhOWnmoVYycDE0bqQ4lHsMNW8.jpg?width=1200&height=1800",
+      "alt": "",
+      "width": 355,
+      "height": 240,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/rHx2lXUoYm6Ek2jPOQbyuBmMuhw.jpg?width=1200&height=1598",
+      "currentSrc": "https://framerusercontent.com/images/rHx2lXUoYm6Ek2jPOQbyuBmMuhw.jpg?width=1200&height=1598",
+      "alt": "A person in a black shirt pressing burger patties on a flat top grill",
+      "width": 406,
+      "height": 421,
+      "rect": {}
+    },
+    {
+      "name": null,
+      "src": "https://framerusercontent.com/images/jmidsn1yWfFeFR2iOaZ7AjUgMA.jpg?width=1200&height=900",
+      "currentSrc": "https://framerusercontent.com/images/jmidsn1yWfFeFR2iOaZ7AjUgMA.jpg?scale-down-to=1024&width=1200&height=900",
+      "alt": "People eating burgers, fries, and roasted vegetables at a round table",
+      "width": 316,
+      "height": 292,
+      "rect": {}
+    }
+  ],
+  "elementsWithBgImage": [
+    {
+      "tagName": "DIV",
+      "name": "Marquee Band",
+      "className": "framer-1rl16qk",
+      "bg": "linear-gradient(rgb(35, 114, 39) 45.8621%, rgb(227, 6, 19) 50%, rgb(255, 170, 0) 50%)"
+    }
+  ]
+}

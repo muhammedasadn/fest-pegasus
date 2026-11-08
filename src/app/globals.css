@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+@theme {
+  --color-flame-yellow: #FFAA00;
+  --color-flame-green: #237227;
+  --color-flame-red: #E30613;
+  --color-flame-cream: #FFF4DC;
+  --color-flame-dark: #141414;
+  --color-flame-white: #FFFFFF;
+
+  --font-display: var(--font-archivo-black), "Archivo Black", sans-serif;
+  --font-heading: var(--font-bricolage), "Bricolage Grotesque", sans-serif;
+  --font-body: var(--font-bricolage), "Bricolage Grotesque", sans-serif;
+  --font-sans: var(--font-inter), "Inter", sans-serif;
+
+  --shadow-neo: 4px 4px 0px 0px #141414;
+  --shadow-neo-nav: 5px 5px 0px 0px #141414;
+  --shadow-neo-hover: 6px 6px 0px 0px #141414;
+  --shadow-neo-sm: 2px 2px 0px 0px #141414;
+
+  --radius-pill: 9999px;
+  --radius-card: 24px;
+  --radius-nav: 34px;
+
+  --breakpoint-tablet: 810px;
+  --breakpoint-desktop: 1200px;
+}
+
+:root {
+  --background: #FFF4DC;
+  --foreground: #141414;
+  --border-color: #141414;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #FFF4DC;
+  color: #141414;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #FFF4DC;
+  color: #141414;
+  font-family: var(--font-bricolage), "Bricolage Grotesque", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Custom Neo-Brutalist Utility Classes */
+.border-neo {
+  border: 3px solid #141414;
+}
+
+.shadow-neo {
+  box-shadow: 4px 4px 0px 0px #141414;
+}
+
+.shadow-neo-nav {
+  box-shadow: 5px 5px 0px 0px #141414;
+}
+
+.shadow-neo-sm {
+  box-shadow: 2px 2px 0px 0px #141414;
+}
+
+/* Marquee infinite scroll */
+@keyframes marquee-scroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes marquee-scroll-reverse {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll 25s linear infinite;
+}
+
+.animate-marquee-slow {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll 40s linear infinite;
+}
+
+.animate-marquee-reverse {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll-reverse 45s linear infinite;
+}
+
+.animate-marquee:hover,
+.animate-marquee-slow:hover,
+.animate-marquee-reverse:hover {
+  animation-play-state: paused;
+}

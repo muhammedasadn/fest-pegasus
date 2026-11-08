@@ -1,0 +1,340 @@
+{
+  "navLinks": [
+    {
+      "text": "FLAME BURGER",
+      "href": "./",
+      "ariaLabel": null
+    },
+    {
+      "text": "Home",
+      "href": "./",
+      "ariaLabel": null
+    },
+    {
+      "text": "Menu",
+      "href": "./menu",
+      "ariaLabel": null
+    },
+    {
+      "text": "Offers",
+      "href": "./offers",
+      "ariaLabel": null
+    },
+    {
+      "text": "Events",
+      "href": "./events",
+      "ariaLabel": null
+    },
+    {
+      "text": "About",
+      "href": "./about",
+      "ariaLabel": null
+    },
+    {
+      "text": "Blog",
+      "href": "./blog",
+      "ariaLabel": null
+    },
+    {
+      "text": "Contact",
+      "href": "./contact",
+      "ariaLabel": null
+    },
+    {
+      "text": "Order Now",
+      "href": "./menu",
+      "ariaLabel": null
+    }
+  ],
+  "allButtonsCount": 35,
+  "allButtons": [
+    {
+      "tagName": "A",
+      "text": "Order Now",
+      "href": "./menu",
+      "target": null,
+      "framerName": "Yellow"
+    },
+    {
+      "tagName": "A",
+      "text": "Explore Menu",
+      "href": "./menu",
+      "target": null,
+      "framerName": "White"
+    },
+    {
+      "tagName": "A",
+      "text": "Explore Menu",
+      "href": "./menu",
+      "target": null,
+      "framerName": "Ink"
+    },
+    {
+      "tagName": "A",
+      "text": "Order This Deal",
+      "href": "./offers",
+      "target": null,
+      "framerName": "Ink"
+    },
+    {
+      "tagName": "A",
+      "text": "Order This Deal",
+      "href": "./offers",
+      "target": null,
+      "framerName": "Ink"
+    },
+    {
+      "tagName": "A",
+      "text": "Order This Deal",
+      "href": "./offers",
+      "target": null,
+      "framerName": "Ink"
+    },
+    {
+      "tagName": "A",
+      "text": "See All Offers",
+      "href": "./offers",
+      "target": null,
+      "framerName": "Yellow"
+    },
+    {
+      "tagName": "A",
+      "text": "See Full Menu",
+      "href": "./menu",
+      "target": null,
+      "framerName": "Red"
+    },
+    {
+      "tagName": "A",
+      "text": "Our Story",
+      "href": "./about",
+      "target": null,
+      "framerName": "Yellow"
+    },
+    {
+      "tagName": "A",
+      "text": "Book a Table",
+      "href": "./contact",
+      "target": null,
+      "framerName": "Ink"
+    },
+    {
+      "tagName": "A",
+      "text": "Plan Your Event",
+      "href": "./events",
+      "target": null,
+      "framerName": "Yellow"
+    },
+    {
+      "tagName": "A",
+      "text": "Ask Us Anything",
+      "href": "./contact",
+      "target": null,
+      "framerName": "Red"
+    },
+    {
+      "tagName": "A",
+      "text": "Read the Journal",
+      "href": "./blog",
+      "target": null,
+      "framerName": "Ink"
+    },
+    {
+      "tagName": "A",
+      "text": "Order Now",
+      "href": "./menu",
+      "target": null,
+      "framerName": "Yellow"
+    },
+    {
+      "tagName": "A",
+      "text": "FLAME BURGER",
+      "href": "./",
+      "target": null,
+      "framerName": "Logo"
+    },
+    {
+      "tagName": "A",
+      "text": "Home",
+      "href": "./",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Menu",
+      "href": "./menu",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Offers",
+      "href": "./offers",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Events",
+      "href": "./events",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "About",
+      "href": "./about",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Blog",
+      "href": "./blog",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Contact",
+      "href": "./contact",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Order Now",
+      "href": "./menu",
+      "target": null,
+      "framerName": "Red"
+    },
+    {
+      "tagName": "A",
+      "text": "FLAME BURGER",
+      "href": "./",
+      "target": null,
+      "framerName": "Logo"
+    },
+    {
+      "tagName": "A",
+      "text": "+91 62 387 10413",
+      "href": "tel:+12125550186",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "hello@flameburger.example",
+      "href": "mailto:hello@zestivo.example",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Home",
+      "href": "./",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Menu",
+      "href": "./menu",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Offers",
+      "href": "./offers",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Events",
+      "href": "./events",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "About",
+      "href": "./about",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Blog",
+      "href": "./blog",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Contact",
+      "href": "./contact",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "Catering",
+      "href": "./events",
+      "target": null,
+      "framerName": null
+    },
+    {
+      "tagName": "A",
+      "text": "FAQs",
+      "href": "./contact#faq",
+      "target": null,
+      "framerName": null
+    }
+  ],
+  "forms": [],
+  "faqItems": [
+    {
+      "name": "Ink",
+      "text": "Good Questions"
+    },
+    {
+      "name": "Red",
+      "text": "Ask Us Anything"
+    },
+    {
+      "name": "Closed",
+      "text": "Do you offer delivery?"
+    },
+    {
+      "name": "Toggle",
+      "text": ""
+    },
+    {
+      "name": "Closed",
+      "text": "Can I order ahead for pickup?"
+    },
+    {
+      "name": "Toggle",
+      "text": ""
+    },
+    {
+      "name": "Closed",
+      "text": "Do you offer catering?"
+    },
+    {
+      "name": "Toggle",
+      "text": ""
+    },
+    {
+      "name": "Closed",
+      "text": "Can I reserve a table?"
+    },
+    {
+      "name": "Toggle",
+      "text": ""
+    }
+  ]
+}
