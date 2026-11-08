@@ -1,5 +1,5 @@
 {
-  "name": "fest",
+  "name": "flame-burger",
   "version": "0.1.0",
   "private": true,
   "imports": {
@@ -10,7 +10,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "node --experimental-strip-types --test tests/**/*.test.ts"
+    "verify": "node scripts/verify-components.js"
   },
   "dependencies": {
     "@base-ui/react": "^1.8.0",

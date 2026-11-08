@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍔 FLAME BURGER — Crafted With Fire
 
-## Getting Started
+A pixel-faithful, responsive, animation-heavy rebuild of the **FLAME BURGER** Framer website ([https://real-project-691891.framer.app/](https://real-project-691891.framer.app/)) constructed with Next.js (App Router), React 19, TypeScript, Tailwind CSS v4, and Framer Motion.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Tech Stack
+
+- **Framework:** Next.js 16 (App Router, Turbopack)
+- **Language:** TypeScript (`strict: true`)
+- **Styling:** Tailwind CSS v4 + PostCSS
+- **Animations:** Framer Motion (spring physics, continuous loops, staggered reveals)
+- **Visuals:** 3D cursor parallax tilt, infinite marquees, sticker badges
+- **Fonts:** `Archivo Black`, `Bricolage Grotesque`, `Inter` (via `next/font/google`)
+- **Icons:** Custom SVG Symbols & Lucide React
+
+---
+
+## 📐 Project Structure
+
+```
+.
+├── docs/                      # Architectural docs (INSPECTION, PLAN, DECISIONS, PROGRESS, QA_REPORT)
+├── public/                    # High-res assets (cutout burger, food photography, icons)
+├── scripts/                   # Verification tools & measured DOM specifications
+├── src/
+│   ├── app/                   # Next.js App Router (layout, page, globals.css)
+│   ├── components/
+│   │   ├── layout/            # Navbar, Mobile Menu Drawer, Footer
+│   │   ├── sections/          # 15 distinct sections (Hero, Marquee, Categories, Offers, Menu...)
+│   │   ├── three/             # 3D interactive visual components (BurgerPlateVisual)
+│   │   └── ui/                # Neo-brutalist button, badge, and card primitives
+│   ├── data/                  # Static menu, category, and asset registry
+│   └── lib/                   # Motion presets, spring curves, and cn utility
+└── verification/              # Headless screenshots across Desktop, Tablet, and Mobile
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 1. Install Dependencies
+```bash
+pnpm install
+```
 
-## Learn More
+### 2. Run the Development Server
+```bash
+pnpm dev
+```
+Open [http://localhost:3000](http://localhost:3000) to view the live site.
 
-To learn more about Next.js, take a look at the following resources:
+### 3. Build for Production
+```bash
+pnpm build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 4. Run Production Build Locally
+```bash
+pnpm start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 5. Run Verification Suite
+```bash
+pnpm run verify
+```
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎨 Design Highlights
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Neo-Brutalist Foundations:** 3px solid borders (`#141414`), unblurred hard drop shadows (`4px`, `6px`, `8px`, `10px`).
+- **Signature Palette:** Warm Cream (`#FFF4DC`), Forest Green (`#237227`), Amber Yellow (`#FFAA00`), Fire Red (`#E30613`), Ink Dark (`#141414`).
+- **Smooth Animations:** Kinetic word reveal, 3D burger tilt, dual-direction gallery tickers, and spring accordions.
